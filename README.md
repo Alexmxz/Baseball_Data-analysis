@@ -13,4 +13,5 @@ In this notebook, we're going to wrangle, analyze, and visualize Statcast data t
 **Batted Ball Event (BBE):** https://www.mlb.com/glossary/statcast/batted-ball-event
 
 ## KDE plot
-In order to getting into their hitting profiles, exit velocity vs. launch angle were plotted by contours to represent density
+In order to getting into their hitting profiles, exit velocity vs. launch angle were plotted by contours to represent density   
+![alt text](https://github.com/Alexmxz/Baseball_Data-analysis/blob/main/image1.png)
