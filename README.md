@@ -17,7 +17,7 @@ In this notebook, we're going to wrangle, analyze, and visualize Statcast data t
 In order to getting into their hitting profiles, exit velocity vs. launch angle were plotted by contours to represent density   
 ![alt text](https://github.com/Alexmxz/Baseball_Data-analysis/blob/main/image1.png)
 
-## pitch location and strike zon
+## Pitch location and strike zone
 For simplicity, only look at strikes, which gives us a 9x9 grid. We can view each zone as coordinates on a 2D plot, the bottom left corner being (1,1) and the top right corner being (3,3). Setting up a def (function) to assign x-coordinates and y-coordinates to each pitch. 
 ![alt text](https://github.com/Alexmxz/Baseball_Data-analysis/blob/main/pitch_loc.png)    
 ![alt text](https://github.com/Alexmxz/Baseball_Data-analysis/blob/main/strike_loc.png)    
