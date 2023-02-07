@@ -1,9 +1,10 @@
 # MLB Baseball_Data-analysis
 In this notebook, we're going to wrangle, analyze, and visualize Statcast data to compare Mr. Judge and another (extremely large) teammate of his. There are two CSV files, judge.csv and stanton.csv, both of which contain Statcast data for 2015-2017. We'll use pandas DataFrames to store this data and data visualization libraries, matplotlib and seaborn.
-![alt text](https://github.com/Alexmxz/Baseball_Data-analysis/blob/main/image3.png)   
+
 * Created data wrangling, analysis on Statcast data for helping the further visualization.
 * Seaborn regplot and kdeplot were implemented, especially the kdeplot is one of the straightforward methods showing smoothed contours to represent density. 
-* Gridding hist2D heatmaps for analysis of pitch location and strike zone.
+* Gridding hist2D heatmaps for analysis of pitch location and strike zone.    
+![alt text](https://github.com/Alexmxz/Baseball_Data-analysis/blob/main/image3.png)   
 
 ## Code and Resources
 **Python Version:** 3.8   
