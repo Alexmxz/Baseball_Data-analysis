@@ -11,3 +11,6 @@ In this notebook, we're going to wrangle, analyze, and visualize Statcast data t
 **For Web Framework Requirements:**  ```pip install -r requirements.txt```      
 **Future of the Game: Baseball's Latest Statistical Revolution:** https://www.youtube.com/watch?v=9rOKGKhQe8U   
 **Batted Ball Event (BBE):** https://www.mlb.com/glossary/statcast/batted-ball-event
+
+## KDE plot
+In order to getting into their hitting profiles, exit velocity vs. launch angle were plotted by contours to represent density
