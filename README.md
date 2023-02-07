@@ -5,12 +5,10 @@ In this notebook, we're going to wrangle, analyze, and visualize Statcast data t
 * Seaborn regplot and kdeplot were implemented, especially the kdeplot is one of the straightforward methods showing smoothed contours to represent density. 
 * Gridding hist2D heatmaps for analysis of pitch location and strike zone.
 
-
-## Code and Resources Used 
+## Code and Resources Used
 **Python Version:** 3.8
 **Packages:** pandas, numpy, matplotlib, seaborn
 **For Web Framework Requirements:**  ```pip install -r requirements.txt```  
-**Future of the Game: Baseball's Latest Statistical Revolution:** [https://github.com/arapfaik/scraping-glassdoor-selenium ](https://www.youtube.com/watch?v=9rOKGKhQe8U) 
-**Scraper Article:** https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905  
-14
+**Future of the Game: Baseball's Latest Statistical Revolution:** https://www.youtube.com/watch?v=9rOKGKhQe8U
+**Batted Ball Event (BBE):** https://www.mlb.com/glossary/statcast/batted-ball-event
 **Flask Productionization:** https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
